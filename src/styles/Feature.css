@@ -1,0 +1,35 @@
+.featureimage {
+  width: 15em;
+  border: 5px solid white;
+  border-radius: 12px;
+}
+.feature {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 20px;
+  background-color: #a1608c;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+@media (min-width: 1100px) {
+  .feature {
+    width: 70%;
+    justify-content: center;
+  }
+}
+.featureheading {
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+  font-size: 3em;
+  font-weight: bold;
+  padding: 0px 20px;
+}
+.featureinfo {
+  color: white;
+  font-size: 2em;
+  padding: 0px 20px;
+}

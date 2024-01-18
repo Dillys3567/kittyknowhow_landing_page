@@ -1,0 +1,29 @@
+.navbutton {
+  color: white;
+  background-color: #a1608c;
+  border: 0;
+  font-family: "Indie Flower", cursive;
+  font-weight: bold;
+  font-size: 1.5em;
+  padding: 0px 20px;
+  border-radius: 12px;
+}
+
+.navbutton:hover {
+  background-color: #d98cd6;
+}
+
+.download {
+  background-color: #d98cd6;
+  color: white;
+  font-family: "Indie Flower", cursive;
+  font-weight: bold;
+  border-radius: 10px;
+  border-style: none;
+  font-size: 1.5em;
+  padding: 5px 20px;
+}
+
+.download:hover {
+  color: #a1608c;
+}

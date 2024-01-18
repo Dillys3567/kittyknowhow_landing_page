@@ -1,0 +1,30 @@
+.about {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: white;
+  background-color: #a1608c;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.imagelink {
+  width: 1em;
+  height: 1em;
+  padding: 0px 20px;
+}
+.twitter {
+  width: 2em;
+  height: 2em;
+}
+.repolink {
+  background-color: #a1608c;
+  color: white;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
