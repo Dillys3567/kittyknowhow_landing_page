@@ -13,18 +13,18 @@ function App() {
       <Feature
         title="Create a post"
         info="Share your thoughts and experiences with like minded people. Ask questions and get your answers."
-        image="../assets/postcreate.jpg"
+        image="assets/postcreate.jpg"
       ></Feature>
       <Feature
         id="center"
         title="Learn from others and share your knowledge"
         info="Scroll through endless posts by fellow cat parents while leaving comments on posts of interest."
-        image="../assets/posts.jpg"
+        image="assets/posts.jpg"
       ></Feature>
       <Feature
         title="Try the logged out experience"
         info="Don't want to create an account but want to experience the cat journey of others? Enter KittyKnowhow without signing up."
-        image="../assets/onboard.jpg"
+        image="assets/onboard.jpg"
       ></Feature>
       <About></About>
       <Author></Author>

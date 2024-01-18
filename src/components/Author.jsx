@@ -5,16 +5,10 @@ export default function Author() {
       <div className="about">
         Dillys Naa Kai Annan
         <a href="https://github.com/Dillys3567">
-          <img
-            className="imagelink"
-            src="../assets/github-mark-white.png"
-          ></img>
+          <img className="imagelink" src="assets/github-mark-white.png"></img>
         </a>
         <a href="https://www.linkedin.com/in/dillys-annan-083b10211/">
-          <img
-            className="imagelink"
-            src="https://github.com/Dillys3567/kittyknowhow_landing_page/blob/main/src/assets/linkedin.png"
-          ></img>
+          <img className="imagelink" src="assets/linkedin.png"></img>
         </a>
         <a href="https://twitter.com/DillysAnnan">
           <img className="twitter" src="assets/twitter.png"></img>
