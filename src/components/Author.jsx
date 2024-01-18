@@ -17,7 +17,7 @@ export default function Author() {
           ></img>
         </a>
         <a href="https://twitter.com/DillysAnnan">
-          <img className="twitter" src="src/assets/twitter.png"></img>
+          <img className="twitter" src="../assets/twitter.png"></img>
         </a>
       </div>
       <div>
