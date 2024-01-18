@@ -14,12 +14,7 @@
   margin-top: 10px;
   border-radius: 20px;
 }
-@media (min-width: 1100px) {
-  .feature {
-    width: 70%;
-    justify-content: center;
-  }
-}
+
 .featureheading {
   justify-content: space-evenly;
   align-items: center;
