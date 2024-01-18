@@ -13,7 +13,7 @@ export default function Author() {
         <a href="https://www.linkedin.com/in/dillys-annan-083b10211/">
           <img
             className="imagelink"
-            src="./kittyknowhow_landing_page/src/assets/linkedin.png"
+            src="https://github.com/Dillys3567/kittyknowhow_landing_page/blob/main/src/assets/linkedin.png"
           ></img>
         </a>
         <a href="https://twitter.com/DillysAnnan">
