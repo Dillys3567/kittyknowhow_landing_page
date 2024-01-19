@@ -9,6 +9,12 @@
   border-radius: 12px;
 }
 
+@media (max-width: 768px) {
+  .navbutton {
+    padding: 0px 10px;
+  }
+}
+
 .navbutton:hover {
   background-color: #d98cd6;
 }

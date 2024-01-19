@@ -9,10 +9,13 @@
   align-items: center;
   padding: 20px 20px;
   background-color: #a1608c;
-  margin: auto;
   margin-bottom: 10px;
   margin-top: 10px;
   border-radius: 20px;
+}
+
+@media (max-width: 768px) {
+  /* Your styles for smaller screens go here */
 }
 
 .featureheading {

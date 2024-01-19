@@ -16,7 +16,6 @@ function App() {
         image="assets/postcreate.jpg"
       ></Feature>
       <Feature
-        id="center"
         title="Learn from others and share your knowledge"
         info="Scroll through endless posts by fellow cat parents while leaving comments on posts of interest."
         image="assets/posts.jpg"
